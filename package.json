@@ -1,0 +1,23 @@
+{
+  "name": "github-3",
+  "version": "1.0.0",
+  "description": "Moduł 3 Page Object Pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliaozi/goit-pop-modul3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliaozi/goit-pop-modul3/issues"
+  },
+  "homepage": "https://github.com/nataliaozi/goit-pop-modul3#readme",
+  "devDependencies": {
+    "cypress": "^14.4.0"
+  }
+}
